@@ -13,6 +13,6 @@ Model overview
 
 How to reproduce
 1. Download Kaggle competition data
-2. Place data files in /data
-3. Run scripts/kaggle_submission.R
+2. Place competition data files + Barttorvik Away-Neutral in /data
+3. Run scripts/kaggle_submission_script.R
 4. The script outputs output/submission.csv
